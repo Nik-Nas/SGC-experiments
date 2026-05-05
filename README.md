@@ -1,4 +1,4 @@
-# SG-experiments
+# SGС-experiments
 
 Репозиторий содержит практические эксперименты к индивидуальному разбору статьи  
 **«Simplifying Graph Convolutional Networks»** (Wu et al., ICML 2019).
